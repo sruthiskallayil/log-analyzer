@@ -1,0 +1,8 @@
+INFO: Application started
+INFO: User login successful
+ERROR: Database connection failed
+WARNING: Low disk space
+ERROR: File not found
+INFO: Backup completed
+ERROR: Network timeout
+INFO: Server stopped
